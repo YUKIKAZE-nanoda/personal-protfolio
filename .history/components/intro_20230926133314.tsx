@@ -23,7 +23,7 @@ export default function Intro() {
           <motion.div initial={{ opacity: 0, scale: 0 }}
             animate={{ opacity: 1, scale: 1 }}
             transition={{ type: "tween", duration: 0.25 }}>
-            <Image src='public/avatar.jpg'
+            <Image src={av}
               alt='shigure'
               width="192"
               height="192"
