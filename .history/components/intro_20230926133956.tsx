@@ -23,7 +23,7 @@ export default function Intro() {
           <motion.div initial={{ opacity: 0, scale: 0 }}
             animate={{ opacity: 1, scale: 1 }}
             transition={{ type: "tween", duration: 0.25 }}>
-            <Image src='https://konachan.net/sample/91e0bdf8e4a8af77250a9f6dbedc0bf2/Konachan.com%20-%20362629%20sample.jpg?0.10576094391367263'
+            <Image src='https://konachan.net/sample/291f8b0a247bf47bba53568f4bca5ed7/Konachan.com%20-%20362988%20sample.jpg?0.5618597212672003'
               alt='shigure'
               width="192"
               height="192"

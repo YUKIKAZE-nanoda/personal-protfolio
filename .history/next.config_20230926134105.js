@@ -5,7 +5,6 @@ const nextConfig = {
       {
         protocol: "https",
         hostname: "konachan.net",
-        //hostname: "unsplash.com",
       },
     ],
   },

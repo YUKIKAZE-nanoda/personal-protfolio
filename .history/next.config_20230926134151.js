@@ -4,8 +4,8 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: "https",
+        //hostname: "konachan.net",
         hostname: "konachan.net",
-        //hostname: "unsplash.com",
       },
     ],
   },
